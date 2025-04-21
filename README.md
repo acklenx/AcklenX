@@ -27,7 +27,7 @@ Make. Learn. Share. Passionate about demystifying the world around you
 
 ### Badges
 
-<a href="https://github.com/AcklenX" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcklenX&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=golangz,django&langs_count=12" alt="Top Languages" /></a>
+<a href="https://github.com/AcklenX" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcklenX&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages%20%in%20%PUBLIC%20%repos&hide=golangz,django&langs_count=12" alt="Top Languages" /></a>
 
 ### Support Me
 
